@@ -25,6 +25,7 @@
 
   * Application URL: https://itsnestor.github.io/Fitness.Tracker/
   * Github Repository URL: https://github.com/itsnestor/Fitness.Tracker
+  * Heroku URL: https://fitness-tracker-12345.herokuapp.com/
   
   ![fitness1](HW_Guideline/fitnesstracker1.PNG)
 
